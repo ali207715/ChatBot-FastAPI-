@@ -13,3 +13,4 @@ After that, open your favourite browser to the link [http://127.0.0.1:8000] and 
 * numpy (pip install numpy)
 * pickle
 # PREVIEW
+![img](https://github.com/ali207715/Chatbot-FastAPI-/blob/main/1.PNG?raw=true)
