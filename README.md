@@ -12,3 +12,4 @@ After that, open your favourite browser to the link [http://127.0.0.1:8000] and 
 * Jinja2Templates (pip install jinja2)
 * numpy (pip install numpy)
 * pickle
+# PREVIEW
