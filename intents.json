@@ -1,0 +1,25 @@
+{"intents" : [
+  {"tag" : "introductions",
+  "patterns" :  ["hello", "hi", "greetings", "salutations", "wassup", "what's up", "yo", "hey", "how's it going?", "good day"],
+  "responses" :  [ "Hello!", "hey!", "What's up!", "What can I do for you today?"]},
+
+  {"tag" : "name",
+  "patterns" :  ["what's your name", "who are you", "name?", "what are you called?", "what should i call you?", "who are you?", "you?", "what is your name", "what do you go by?"],
+  "responses" :  ["My name is Nucleus.", "I am called Nucleus.", "You may call me Nucleus.", "Nucleus"]},
+
+  {"tag" : "conclusion",
+  "patterns" :  ["bye", "see ya", "goodbye", "ciao", "cao", "see you later", "have a good day", "smell ya later"],
+  "responses" :  [ "Hope to see you again!", "Goodbye"]},
+
+  {"tag" : "purpose",
+  "patterns" :  ["what do you do", "what can you do", "how can you help me", "your purpose?", "what is your purpose", "can you help me?", "help", "can you do this?", "what do you do"],
+  "responses" : ["I am an AI assistant that can help you with various tasks, such as answer your burning questions"]},
+
+  {"tag" : "hours",
+  "patterns" :  ["when do you open?", "can i visit right now?", "timings?", "opening?", "closing hours", "opening hours", "live status"],
+  "responses" :  [ "We at Nucleus operate from 8 AM to 9 PM, Monday till Friday."]},
+
+  {"tag" : "products",
+  "patterns" :  ["what can i buy", "buying options", "products", "what do you sell", "can i see my options", "what all you got?", "do you sell this?"],
+  "responses" :  [ "We sell various product merch such as hoodies, t shirt and even caps!"]}
+]}
